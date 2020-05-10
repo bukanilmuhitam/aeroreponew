@@ -20,7 +20,7 @@ $(".nav-item").click(function() {
 
 $(document).ready(function(){
 
-    $('#my-fasilitas').lightGallery({
+    $('#gallery-aero').lightGallery({
         thumbnail:true
     });
 
